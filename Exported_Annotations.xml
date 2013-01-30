@@ -1,0 +1,758 @@
+<annotations>
+<APAText IID="2" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="0" flags="28" lastModified="1355955826" importedAppearanceStream="0" dirty="1" deleted="0" title="(Unknown)" creationStamp="1355955819" popupVisible="0" iconName="Comment" open="0">
+ <rect x="0.418762" y="0.204368" width="0.029412" height="0.022727"/>
+ <contents>This page has a comment!</contents>
+</APAText>
+<APATextMarkup IID="3" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="0" flags="4" lastModified="1355955835" importedAppearanceStream="0" dirty="1" deleted="0" title="(Unknown)" creationStamp="1355955835" popupVisible="0" textType="Highlight">
+ <color>
+  <APAColor IID="4" colorType="RGB">
+   <rgbColor>
+    <APARGBColor IID="7" red="1.000000" green="1.000000" blue="0.000000" alpha="1.000000"/>
+   </rgbColor>
+  </APAColor>
+ </color>
+ <rect x="0.417026" y="0.438611" width="0.403137" height="0.029192"/>
+ <areas>
+  <APATextArea IID="6">
+   <area x="0.417026" y="0.438611" width="0.403137" height="0.029192"/>
+  </APATextArea>
+ </areas>
+ <markupText>(DON'T DELETE PLEASE!)</markupText>
+</APATextMarkup>
+<APAInk IID="8" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="1" flags="4" lastModified="1355955848" importedAppearanceStream="0" dirty="1" deleted="0" title="(Unknown)" creationStamp="1355955848" popupVisible="0" penWidth="12.014998">
+ <color>
+  <APAColor IID="9" colorType="RGB">
+   <rgbColor>
+    <APARGBColor IID="58" red="1.000000" green="1.000000" blue="0.000000" alpha="0.500000"/>
+   </rgbColor>
+  </APAColor>
+ </color>
+ <rect x="0.365456" y="0.368795" width="0.354773" height="0.217239"/>
+ <paths>
+  <APAPath IID="11">
+   <points>
+    <APALocation IID="60">
+     <location x="0.569556" y="0.383956"/>
+    </APALocation>
+    <APALocation IID="61">
+     <location x="0.569052" y="0.383956"/>
+    </APALocation>
+    <APALocation IID="62">
+     <location x="0.568044" y="0.384346"/>
+    </APALocation>
+    <APALocation IID="63">
+     <location x="0.566028" y="0.384735"/>
+    </APALocation>
+    <APALocation IID="64">
+     <location x="0.558972" y="0.385903"/>
+    </APALocation>
+    <APALocation IID="65">
+     <location x="0.543347" y="0.388629"/>
+    </APALocation>
+    <APALocation IID="66">
+     <location x="0.512601" y="0.393692"/>
+    </APALocation>
+    <APALocation IID="67">
+     <location x="0.484375" y="0.399533"/>
+    </APALocation>
+    <APALocation IID="68">
+     <location x="0.470262" y="0.404595"/>
+    </APALocation>
+    <APALocation IID="69">
+     <location x="0.458669" y="0.410436"/>
+    </APALocation>
+    <APALocation IID="70">
+     <location x="0.450101" y="0.415888"/>
+    </APALocation>
+    <APALocation IID="71">
+     <location x="0.444052" y="0.420561"/>
+    </APALocation>
+    <APALocation IID="72">
+     <location x="0.439516" y="0.425234"/>
+    </APALocation>
+    <APALocation IID="73">
+     <location x="0.432964" y="0.433022"/>
+    </APALocation>
+    <APALocation IID="74">
+     <location x="0.425403" y="0.443536"/>
+    </APALocation>
+    <APALocation IID="75">
+     <location x="0.416331" y="0.455997"/>
+    </APALocation>
+    <APALocation IID="76">
+     <location x="0.406250" y="0.467679"/>
+    </APALocation>
+    <APALocation IID="77">
+     <location x="0.398690" y="0.477804"/>
+    </APALocation>
+    <APALocation IID="78">
+     <location x="0.391633" y="0.493769"/>
+    </APALocation>
+    <APALocation IID="79">
+     <location x="0.386593" y="0.508178"/>
+    </APALocation>
+    <APALocation IID="80">
+     <location x="0.385081" y="0.516355"/>
+    </APALocation>
+    <APALocation IID="81">
+     <location x="0.387097" y="0.523754"/>
+    </APALocation>
+    <APALocation IID="82">
+     <location x="0.392641" y="0.530374"/>
+    </APALocation>
+    <APALocation IID="83">
+     <location x="0.401714" y="0.536604"/>
+    </APALocation>
+    <APALocation IID="84">
+     <location x="0.412298" y="0.542056"/>
+    </APALocation>
+    <APALocation IID="85">
+     <location x="0.423387" y="0.546340"/>
+    </APALocation>
+    <APALocation IID="86">
+     <location x="0.436492" y="0.552181"/>
+    </APALocation>
+    <APALocation IID="87">
+     <location x="0.447581" y="0.558022"/>
+    </APALocation>
+    <APALocation IID="88">
+     <location x="0.455141" y="0.562305"/>
+    </APALocation>
+    <APALocation IID="89">
+     <location x="0.462702" y="0.566199"/>
+    </APALocation>
+    <APALocation IID="90">
+     <location x="0.471270" y="0.568925"/>
+    </APALocation>
+    <APALocation IID="91">
+     <location x="0.480343" y="0.570483"/>
+    </APALocation>
+    <APALocation IID="92">
+     <location x="0.495464" y="0.570872"/>
+    </APALocation>
+    <APALocation IID="93">
+     <location x="0.511089" y="0.570483"/>
+    </APALocation>
+    <APALocation IID="94">
+     <location x="0.527722" y="0.568536"/>
+    </APALocation>
+    <APALocation IID="95">
+     <location x="0.551411" y="0.565421"/>
+    </APALocation>
+    <APALocation IID="96">
+     <location x="0.577117" y="0.558022"/>
+    </APALocation>
+    <APALocation IID="97">
+     <location x="0.600806" y="0.545950"/>
+    </APALocation>
+    <APALocation IID="98">
+     <location x="0.619456" y="0.534268"/>
+    </APALocation>
+    <APALocation IID="99">
+     <location x="0.637601" y="0.522975"/>
+    </APALocation>
+    <APALocation IID="100">
+     <location x="0.654234" y="0.512850"/>
+    </APALocation>
+    <APALocation IID="101">
+     <location x="0.666835" y="0.504283"/>
+    </APALocation>
+    <APALocation IID="102">
+     <location x="0.675907" y="0.497664"/>
+    </APALocation>
+    <APALocation IID="103">
+     <location x="0.681956" y="0.494159"/>
+    </APALocation>
+    <APALocation IID="104">
+     <location x="0.685988" y="0.492212"/>
+    </APALocation>
+    <APALocation IID="105">
+     <location x="0.688004" y="0.491433"/>
+    </APALocation>
+    <APALocation IID="106">
+     <location x="0.689012" y="0.490654"/>
+    </APALocation>
+    <APALocation IID="107">
+     <location x="0.691028" y="0.487928"/>
+    </APALocation>
+    <APALocation IID="108">
+     <location x="0.696069" y="0.478972"/>
+    </APALocation>
+    <APALocation IID="109">
+     <location x="0.700101" y="0.463006"/>
+    </APALocation>
+    <APALocation IID="110">
+     <location x="0.700605" y="0.449766"/>
+    </APALocation>
+    <APALocation IID="111">
+     <location x="0.698589" y="0.438863"/>
+    </APALocation>
+    <APALocation IID="112">
+     <location x="0.694556" y="0.428738"/>
+    </APALocation>
+    <APALocation IID="113">
+     <location x="0.686492" y="0.418224"/>
+    </APALocation>
+    <APALocation IID="114">
+     <location x="0.675907" y="0.407321"/>
+    </APALocation>
+    <APALocation IID="115">
+     <location x="0.666835" y="0.400312"/>
+    </APALocation>
+    <APALocation IID="116">
+     <location x="0.660786" y="0.396028"/>
+    </APALocation>
+    <APALocation IID="117">
+     <location x="0.654234" y="0.393692"/>
+    </APALocation>
+    <APALocation IID="118">
+     <location x="0.647177" y="0.392134"/>
+    </APALocation>
+    <APALocation IID="119">
+     <location x="0.644657" y="0.391745"/>
+    </APALocation>
+    <APALocation IID="120">
+     <location x="0.644153" y="0.391355"/>
+    </APALocation>
+    <APALocation IID="121">
+     <location x="0.643145" y="0.390576"/>
+    </APALocation>
+    <APALocation IID="122">
+     <location x="0.640625" y="0.390187"/>
+    </APALocation>
+    <APALocation IID="123">
+     <location x="0.637601" y="0.389798"/>
+    </APALocation>
+    <APALocation IID="124">
+     <location x="0.629536" y="0.389408"/>
+    </APALocation>
+    <APALocation IID="125">
+     <location x="0.614919" y="0.390966"/>
+    </APALocation>
+    <APALocation IID="126">
+     <location x="0.600302" y="0.393692"/>
+    </APALocation>
+    <APALocation IID="127">
+     <location x="0.563004" y="0.394860"/>
+    </APALocation>
+    <APALocation IID="128">
+     <location x="0.532258" y="0.394860"/>
+    </APALocation>
+   </points>
+  </APAPath>
+  <APAPath IID="12">
+   <points>
+    <APALocation IID="258">
+     <location x="0.517137" y="0.432243"/>
+    </APALocation>
+    <APALocation IID="259">
+     <location x="0.517641" y="0.433411"/>
+    </APALocation>
+    <APALocation IID="260">
+     <location x="0.518145" y="0.435748"/>
+    </APALocation>
+    <APALocation IID="261">
+     <location x="0.517641" y="0.438474"/>
+    </APALocation>
+    <APALocation IID="262">
+     <location x="0.517137" y="0.441589"/>
+    </APALocation>
+    <APALocation IID="263">
+     <location x="0.516129" y="0.444704"/>
+    </APALocation>
+    <APALocation IID="264">
+     <location x="0.515121" y="0.453271"/>
+    </APALocation>
+    <APALocation IID="265">
+     <location x="0.515121" y="0.460280"/>
+    </APALocation>
+   </points>
+  </APAPath>
+  <APAPath IID="13">
+   <points>
+    <APALocation IID="267">
+     <location x="0.597782" y="0.434579"/>
+    </APALocation>
+    <APALocation IID="268">
+     <location x="0.598286" y="0.434969"/>
+    </APALocation>
+    <APALocation IID="269">
+     <location x="0.598790" y="0.437305"/>
+    </APALocation>
+    <APALocation IID="270">
+     <location x="0.597782" y="0.441199"/>
+    </APALocation>
+    <APALocation IID="271">
+     <location x="0.596270" y="0.445872"/>
+    </APALocation>
+    <APALocation IID="272">
+     <location x="0.594254" y="0.451713"/>
+    </APALocation>
+    <APALocation IID="273">
+     <location x="0.592238" y="0.458333"/>
+    </APALocation>
+    <APALocation IID="274">
+     <location x="0.590726" y="0.465343"/>
+    </APALocation>
+    <APALocation IID="275">
+     <location x="0.589718" y="0.470016"/>
+    </APALocation>
+    <APALocation IID="276">
+     <location x="0.589214" y="0.471573"/>
+    </APALocation>
+    <APALocation IID="277">
+     <location x="0.588710" y="0.473520"/>
+    </APALocation>
+    <APALocation IID="278">
+     <location x="0.588206" y="0.475467"/>
+    </APALocation>
+    <APALocation IID="279">
+     <location x="0.587702" y="0.475857"/>
+    </APALocation>
+   </points>
+  </APAPath>
+  <APAPath IID="14">
+   <points>
+    <APALocation IID="16">
+     <location x="0.477823" y="0.473520"/>
+    </APALocation>
+    <APALocation IID="17">
+     <location x="0.477319" y="0.473520"/>
+    </APALocation>
+    <APALocation IID="18">
+     <location x="0.476815" y="0.473910"/>
+    </APALocation>
+    <APALocation IID="19">
+     <location x="0.476310" y="0.475078"/>
+    </APALocation>
+    <APALocation IID="20">
+     <location x="0.475806" y="0.477025"/>
+    </APALocation>
+    <APALocation IID="21">
+     <location x="0.474798" y="0.480530"/>
+    </APALocation>
+    <APALocation IID="22">
+     <location x="0.472278" y="0.485202"/>
+    </APALocation>
+    <APALocation IID="23">
+     <location x="0.469254" y="0.491044"/>
+    </APALocation>
+    <APALocation IID="24">
+     <location x="0.467238" y="0.496106"/>
+    </APALocation>
+    <APALocation IID="25">
+     <location x="0.465726" y="0.500000"/>
+    </APALocation>
+    <APALocation IID="26">
+     <location x="0.464718" y="0.505452"/>
+    </APALocation>
+    <APALocation IID="27">
+     <location x="0.465222" y="0.511682"/>
+    </APALocation>
+    <APALocation IID="28">
+     <location x="0.466230" y="0.515966"/>
+    </APALocation>
+    <APALocation IID="29">
+     <location x="0.466734" y="0.517913"/>
+    </APALocation>
+    <APALocation IID="30">
+     <location x="0.467742" y="0.518692"/>
+    </APALocation>
+    <APALocation IID="31">
+     <location x="0.469254" y="0.519081"/>
+    </APALocation>
+    <APALocation IID="32">
+     <location x="0.471270" y="0.519470"/>
+    </APALocation>
+    <APALocation IID="33">
+     <location x="0.474798" y="0.520249"/>
+    </APALocation>
+    <APALocation IID="34">
+     <location x="0.478831" y="0.521417"/>
+    </APALocation>
+    <APALocation IID="35">
+     <location x="0.482359" y="0.523364"/>
+    </APALocation>
+    <APALocation IID="36">
+     <location x="0.486895" y="0.526090"/>
+    </APALocation>
+    <APALocation IID="37">
+     <location x="0.492440" y="0.528816"/>
+    </APALocation>
+    <APALocation IID="38">
+     <location x="0.497480" y="0.530374"/>
+    </APALocation>
+    <APALocation IID="39">
+     <location x="0.502016" y="0.529984"/>
+    </APALocation>
+    <APALocation IID="40">
+     <location x="0.505544" y="0.529595"/>
+    </APALocation>
+    <APALocation IID="41">
+     <location x="0.509073" y="0.529206"/>
+    </APALocation>
+    <APALocation IID="42">
+     <location x="0.513105" y="0.528816"/>
+    </APALocation>
+    <APALocation IID="43">
+     <location x="0.516129" y="0.528427"/>
+    </APALocation>
+    <APALocation IID="44">
+     <location x="0.519657" y="0.527648"/>
+    </APALocation>
+    <APALocation IID="45">
+     <location x="0.522681" y="0.526869"/>
+    </APALocation>
+    <APALocation IID="46">
+     <location x="0.525202" y="0.526090"/>
+    </APALocation>
+    <APALocation IID="47">
+     <location x="0.528730" y="0.525312"/>
+    </APALocation>
+    <APALocation IID="48">
+     <location x="0.530746" y="0.524533"/>
+    </APALocation>
+    <APALocation IID="49">
+     <location x="0.531250" y="0.523754"/>
+    </APALocation>
+    <APALocation IID="50">
+     <location x="0.532258" y="0.523364"/>
+    </APALocation>
+    <APALocation IID="51">
+     <location x="0.533770" y="0.522975"/>
+    </APALocation>
+    <APALocation IID="52">
+     <location x="0.534778" y="0.522586"/>
+    </APALocation>
+    <APALocation IID="53">
+     <location x="0.535282" y="0.522196"/>
+    </APALocation>
+    <APALocation IID="54">
+     <location x="0.535786" y="0.521417"/>
+    </APALocation>
+    <APALocation IID="55">
+     <location x="0.537802" y="0.520639"/>
+    </APALocation>
+    <APALocation IID="56">
+     <location x="0.539315" y="0.519860"/>
+    </APALocation>
+    <APALocation IID="57">
+     <location x="0.539315" y="0.519470"/>
+    </APALocation>
+   </points>
+  </APAPath>
+ </paths>
+</APAInk>
+<APAInk IID="280" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="2" flags="4" lastModified="1355955856" importedAppearanceStream="0" dirty="1" deleted="0" title="(Unknown)" creationStamp="1355955856" popupVisible="0" penWidth="2.615000">
+ <color>
+  <APAColor IID="281" colorType="RGB">
+   <rgbColor>
+    <APARGBColor IID="358" red="1.000000" green="0.000000" blue="0.000000" alpha="1.000000"/>
+   </rgbColor>
+  </APAColor>
+ </color>
+ <rect x="0.119721" y="0.140002" width="0.729308" height="0.074357"/>
+ <paths>
+  <APAPath IID="283">
+   <points>
+    <APALocation IID="285">
+     <location x="0.123992" y="0.200156"/>
+    </APALocation>
+    <APALocation IID="286">
+     <location x="0.125000" y="0.200156"/>
+    </APALocation>
+    <APALocation IID="287">
+     <location x="0.128024" y="0.198598"/>
+    </APALocation>
+    <APALocation IID="288">
+     <location x="0.133065" y="0.194315"/>
+    </APALocation>
+    <APALocation IID="289">
+     <location x="0.140121" y="0.187305"/>
+    </APALocation>
+    <APALocation IID="290">
+     <location x="0.151714" y="0.177570"/>
+    </APALocation>
+    <APALocation IID="291">
+     <location x="0.169859" y="0.166277"/>
+    </APALocation>
+    <APALocation IID="292">
+     <location x="0.191532" y="0.156931"/>
+    </APALocation>
+    <APALocation IID="293">
+     <location x="0.209677" y="0.151869"/>
+    </APALocation>
+    <APALocation IID="294">
+     <location x="0.221270" y="0.148364"/>
+    </APALocation>
+    <APALocation IID="295">
+     <location x="0.225806" y="0.165498"/>
+    </APALocation>
+    <APALocation IID="296">
+     <location x="0.224798" y="0.193536"/>
+    </APALocation>
+    <APALocation IID="297">
+     <location x="0.223286" y="0.206386"/>
+    </APALocation>
+    <APALocation IID="298">
+     <location x="0.223286" y="0.210670"/>
+    </APALocation>
+    <APALocation IID="299">
+     <location x="0.224294" y="0.211059"/>
+    </APALocation>
+    <APALocation IID="300">
+     <location x="0.231351" y="0.206776"/>
+    </APALocation>
+    <APALocation IID="301">
+     <location x="0.244960" y="0.197040"/>
+    </APALocation>
+    <APALocation IID="302">
+     <location x="0.258569" y="0.186137"/>
+    </APALocation>
+    <APALocation IID="303">
+     <location x="0.277722" y="0.170561"/>
+    </APALocation>
+    <APALocation IID="304">
+     <location x="0.299899" y="0.155763"/>
+    </APALocation>
+    <APALocation IID="305">
+     <location x="0.320060" y="0.148364"/>
+    </APALocation>
+    <APALocation IID="306">
+     <location x="0.339718" y="0.144860"/>
+    </APALocation>
+    <APALocation IID="307">
+     <location x="0.355847" y="0.143692"/>
+    </APALocation>
+    <APALocation IID="308">
+     <location x="0.365927" y="0.144081"/>
+    </APALocation>
+    <APALocation IID="309">
+     <location x="0.369960" y="0.146028"/>
+    </APALocation>
+    <APALocation IID="310">
+     <location x="0.371472" y="0.150312"/>
+    </APALocation>
+    <APALocation IID="311">
+     <location x="0.372480" y="0.158489"/>
+    </APALocation>
+    <APALocation IID="312">
+     <location x="0.372480" y="0.168614"/>
+    </APALocation>
+    <APALocation IID="313">
+     <location x="0.372480" y="0.177960"/>
+    </APALocation>
+    <APALocation IID="314">
+     <location x="0.375000" y="0.186137"/>
+    </APALocation>
+    <APALocation IID="315">
+     <location x="0.379032" y="0.192757"/>
+    </APALocation>
+    <APALocation IID="316">
+     <location x="0.384073" y="0.197819"/>
+    </APALocation>
+    <APALocation IID="317">
+     <location x="0.405746" y="0.203271"/>
+    </APALocation>
+    <APALocation IID="318">
+     <location x="0.439012" y="0.205607"/>
+    </APALocation>
+    <APALocation IID="319">
+     <location x="0.482359" y="0.191199"/>
+    </APALocation>
+    <APALocation IID="320">
+     <location x="0.536290" y="0.168224"/>
+    </APALocation>
+    <APALocation IID="321">
+     <location x="0.576613" y="0.156931"/>
+    </APALocation>
+    <APALocation IID="322">
+     <location x="0.605343" y="0.152259"/>
+    </APALocation>
+    <APALocation IID="323">
+     <location x="0.625504" y="0.148754"/>
+    </APALocation>
+    <APALocation IID="324">
+     <location x="0.633569" y="0.147975"/>
+    </APALocation>
+    <APALocation IID="325">
+     <location x="0.635081" y="0.149533"/>
+    </APALocation>
+    <APALocation IID="326">
+     <location x="0.634577" y="0.154595"/>
+    </APALocation>
+    <APALocation IID="327">
+     <location x="0.635585" y="0.158100"/>
+    </APALocation>
+    <APALocation IID="328">
+     <location x="0.647177" y="0.155763"/>
+    </APALocation>
+    <APALocation IID="329">
+     <location x="0.674395" y="0.149533"/>
+    </APALocation>
+    <APALocation IID="330">
+     <location x="0.702117" y="0.144860"/>
+    </APALocation>
+    <APALocation IID="331">
+     <location x="0.721774" y="0.144081"/>
+    </APALocation>
+    <APALocation IID="332">
+     <location x="0.734375" y="0.144860"/>
+    </APALocation>
+    <APALocation IID="333">
+     <location x="0.737903" y="0.146807"/>
+    </APALocation>
+    <APALocation IID="334">
+     <location x="0.737399" y="0.148754"/>
+    </APALocation>
+    <APALocation IID="335">
+     <location x="0.735383" y="0.153427"/>
+    </APALocation>
+    <APALocation IID="336">
+     <location x="0.732863" y="0.161994"/>
+    </APALocation>
+    <APALocation IID="337">
+     <location x="0.730847" y="0.171729"/>
+    </APALocation>
+    <APALocation IID="338">
+     <location x="0.729839" y="0.179128"/>
+    </APALocation>
+    <APALocation IID="339">
+     <location x="0.729335" y="0.182243"/>
+    </APALocation>
+    <APALocation IID="340">
+     <location x="0.730847" y="0.182243"/>
+    </APALocation>
+    <APALocation IID="341">
+     <location x="0.746472" y="0.174455"/>
+    </APALocation>
+    <APALocation IID="342">
+     <location x="0.765121" y="0.165498"/>
+    </APALocation>
+    <APALocation IID="343">
+     <location x="0.782762" y="0.161215"/>
+    </APALocation>
+    <APALocation IID="344">
+     <location x="0.800907" y="0.158879"/>
+    </APALocation>
+    <APALocation IID="345">
+     <location x="0.810484" y="0.160436"/>
+    </APALocation>
+    <APALocation IID="346">
+     <location x="0.815020" y="0.163941"/>
+    </APALocation>
+    <APALocation IID="347">
+     <location x="0.815524" y="0.177181"/>
+    </APALocation>
+    <APALocation IID="348">
+     <location x="0.816028" y="0.192757"/>
+    </APALocation>
+    <APALocation IID="349">
+     <location x="0.818044" y="0.200156"/>
+    </APALocation>
+    <APALocation IID="350">
+     <location x="0.821069" y="0.204050"/>
+    </APALocation>
+    <APALocation IID="351">
+     <location x="0.823589" y="0.204829"/>
+    </APALocation>
+    <APALocation IID="352">
+     <location x="0.827621" y="0.204050"/>
+    </APALocation>
+    <APALocation IID="353">
+     <location x="0.833165" y="0.200156"/>
+    </APALocation>
+    <APALocation IID="354">
+     <location x="0.837702" y="0.194315"/>
+    </APALocation>
+    <APALocation IID="355">
+     <location x="0.841230" y="0.190421"/>
+    </APALocation>
+    <APALocation IID="356">
+     <location x="0.843750" y="0.189252"/>
+    </APALocation>
+    <APALocation IID="357">
+     <location x="0.844758" y="0.189252"/>
+    </APALocation>
+   </points>
+  </APAPath>
+ </paths>
+</APAInk>
+<APATextMarkup IID="359" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="2" flags="4" lastModified="1355955863" importedAppearanceStream="0" dirty="1" deleted="0" title="(Unknown)" creationStamp="1355955863" popupVisible="0" textType="Underline">
+ <rect x="0.176471" y="0.439848" width="0.697065" height="0.144848"/>
+ <areas>
+  <APATextArea IID="361">
+   <area x="0.176471" y="0.439848" width="0.681128" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="362">
+   <area x="0.176471" y="0.458636" width="0.677373" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="363">
+   <area x="0.176471" y="0.477121" width="0.697065" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="364">
+   <area x="0.176471" y="0.495606" width="0.619706" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="365">
+   <area x="0.176471" y="0.514091" width="0.691060" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="366">
+   <area x="0.176471" y="0.532576" width="0.695393" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="367">
+   <area x="0.176471" y="0.551061" width="0.653851" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="368">
+   <area x="0.176471" y="0.569545" width="0.311618" height="0.015152"/>
+  </APATextArea>
+ </areas>
+ <markupText>Mr. Schwingel updated the committee on the Bank’s liquidity position. He noted that 
+liquidity was currently robust. He noted that a portion of the large deposit related to 
+the sale of a client’s business is likely to be withdrawn in April for tax purposes. For this 
+reason, the Bank will be in a position of excess liquidity for the next quarter in 
+anticipation of this large withdrawal. Dr. Tessoni asked if any wholesale funding would 
+be needed to cover the gap. Mr. Schwingel responded that he believes there is enough 
+excess liquidity to withstand such a large deposit withdrawal, however, we will re-
+evaluate at the end of the first quarter.</markupText>
+</APATextMarkup>
+<APATextMarkup IID="369" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="3" flags="4" lastModified="1355955869" importedAppearanceStream="0" dirty="1" deleted="0" title="(Unknown)" creationStamp="1355955869" popupVisible="0" textType="StrikeOut">
+ <rect x="0.176471" y="0.261061" width="0.703080" height="0.144848"/>
+ <areas>
+  <APATextArea IID="371">
+   <area x="0.176471" y="0.261061" width="0.654948" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="372">
+   <area x="0.176471" y="0.279849" width="0.690315" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="373">
+   <area x="0.176471" y="0.298333" width="0.688793" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="374">
+   <area x="0.176471" y="0.316818" width="0.703080" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="375">
+   <area x="0.176471" y="0.335303" width="0.649061" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="376">
+   <area x="0.176471" y="0.353788" width="0.678208" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="377">
+   <area x="0.176471" y="0.372273" width="0.675591" height="0.015152"/>
+  </APATextArea>
+  <APATextArea IID="378">
+   <area x="0.176471" y="0.390758" width="0.092403" height="0.015152"/>
+  </APATextArea>
+ </areas>
+ <markupText>Mr. Holahan inquired about the municipal bond portfolio as it relates to Hurricane 
+Sandy. Mr. Schwingel noted that the Bank has identified municipalities in the portfolio 
+that were likely impacted and is monitoring them closely. We have reached out to our 
+brokers who indicated that traditionally, municipalities affected by a natural disaster are 
+able to make debt payments with insurance proceeds and governmental aid. The 
+brokers indicated that it is highly unlikely these bonds would default, and historically, 
+municipalities that have experienced natural disasters have not defaulted on existing 
+obligations.</markupText>
+</APATextMarkup>
+<APABookmark IID="379" objectIDType="Indirect" pdfObjectID="-1" pdfObjectGeneration="0" page="3" flags="0" lastModified="1355955878" importedAppearanceStream="0" dirty="1" deleted="0" name="Bookmark Annotation!">
+ <rect x="0.611961" y="0.713443" width="0.052288" height="0.040404"/>
+</APABookmark>
+</annotations>
